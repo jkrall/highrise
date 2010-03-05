@@ -1,5 +1,5 @@
 require 'active_resource'
-require 'activesupport'
+require 'active_support'
 require 'active_support/basic_object'
 
 require File.dirname(__FILE__) + '/highrise/base'
